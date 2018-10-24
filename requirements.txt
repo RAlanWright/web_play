@@ -1,0 +1,17 @@
+Requirements:
+
+  1) Must contain at least four different .html pages, able to navigate to any page from any page via hyperlinks
+
+  2) At least one list, one table, and one image
+
+  3) Must include at least one stylesheet file
+
+  4) Stylesheet(s) must use at least five different CSS properties, five different types of CSS selectors. Must use the #id selector at least once, and .class selector at least once
+
+  5) Stylesheet(s) must include at least one mobile-responsive @media query, such that styling changes with screen size
+
+  6) Must use Bootstrap 4 on website, taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap's grid model
+
+  7) Stylesheet(s) must use at least one SCSS variable, one example of SCSS nesting, and one use of SCSS inheritance
+
+  8) In README.md, include a short writeup describing your project, what's contained in each file, and (optionally) any other additional information the staff should know about project 
